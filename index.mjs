@@ -1,4 +1,4 @@
 export {
     compress,
     decompress
-} from "./src/lzma-algo";
+} from "./src/lzma-algo.mjs";
