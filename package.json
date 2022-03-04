@@ -1,15 +1,27 @@
 {
-  "author": "Nathan Rugg <nmrugg@gmail.com>",
+  "author": "Mario Kahlhofer <mario.kahlhofer@gmail.com>",
+  "contributors": [
+    {
+      "name": "Nathan Rugg",
+      "email": "nmrugg@gmail.com",
+      "url": "https://github.com/nmrugg"
+    },
+    {
+      "name": "Kaito Udagawa",
+      "email": "umireon@gmail.com",
+      "url": "https://github.com/umireon"
+    }
+  ],
   "name": "lzma",
-  "description": "A JavaScript implementation of the Lempel-Ziv-Markov (LZMA) chain compression algorithm",
-  "version": "2.3.2",
-  "homepage": "http://nmrugg.github.com/LZMA-JS/",
+  "description": "A JavaScript implementation of the Lempel-Ziv-Markov (LZMA) chain compression algorithm, ready to be used as an ES6 package",
+  "version": "2.3.2-es6-rc1",
+  "homepage": "https://github.com/blu3r4y/LZMA-JS",
   "repository": {
     "type": "git",
-    "url": "git://github.com/nmrugg/LZMA-JS.git"
+    "url": "git://github.com/blu3r4y/LZMA-JS.git"
   },
   "bugs": {
-    "url": "https://github.com/nmrugg/LZMA-JS/issues"
+    "url": "https://github.com/blu3r4y/LZMA-JS/issues"
   },
   "bin": {
     "lzma.js": "bin/lzma.js"
