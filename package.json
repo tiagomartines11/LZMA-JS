@@ -14,7 +14,7 @@
   ],
   "name": "@blu3r4y/lzma",
   "description": "A JavaScript implementation of the Lempel-Ziv-Markov (LZMA) chain compression algorithm, ready to be used as an ES6 package",
-  "version": "2.3.2-es6-rc1",
+  "version": "2.3.2-es6-rc2",
   "homepage": "https://github.com/blu3r4y/LZMA-JS",
   "repository": {
     "type": "git",
