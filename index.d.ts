@@ -1,6 +1,6 @@
 /* eslint-disable @typescript-eslint/naming-convention */
 
-declare module "@blu3r4y/lzma" {
+declare module "lzma" {
   type Mode = 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9;
 
   export function compress(data: string | Uint8Array, mode: Mode);

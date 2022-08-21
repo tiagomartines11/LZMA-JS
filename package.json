@@ -12,16 +12,16 @@
       "url": "https://github.com/umireon"
     }
   ],
-  "name": "@blu3r4y/lzma",
+  "name": "lzma",
   "description": "A JavaScript implementation of the Lempel-Ziv-Markov (LZMA) chain compression algorithm, ready to be used as an ES6 package",
   "version": "2.3.3",
-  "homepage": "https://github.com/blu3r4y/LZMA-JS",
+  "homepage": "https://github.com/tiagomartines11/LZMA-JS",
   "repository": {
     "type": "git",
-    "url": "git://github.com/blu3r4y/LZMA-JS.git"
+    "url": "git://github.com/tiagomartines11/LZMA-JS.git"
   },
   "bugs": {
-    "url": "https://github.com/blu3r4y/LZMA-JS/issues"
+    "url": "https://github.com/tiagomartines11/LZMA-JS/issues"
   },
   "bin": {
     "lzma.js": "bin/lzma.js"

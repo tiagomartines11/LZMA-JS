@@ -10,11 +10,11 @@ Please find full details in the original README: https://github.com/LZMA-JS/LZMA
 Install with NPM or Yarn.
 
 ```sh
-npm install @blu3r4y/lzma
+npm install lzma
 ```
 
 ```sh
-yarn add @blu3r4y/lzma
+yarn add lzma
 ```
 
 ## Usage
@@ -22,7 +22,7 @@ yarn add @blu3r4y/lzma
 Compress and decompress a string with compression level 1.
 
 ```js
-import { compress, decompress } from "@blu3r4y/lzma";
+import { compress, decompress } from "lzma";
 
 const data = "Hello World!";
 const compressed = compress(data, 1);
